@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mysqlclient = "*"
+django-easy-audit = "*"
+drf-nested-routers = "*"
+djoser = "*"
+djangorestframework-simplejwt = "*"
+django-countries = "*"
+djangorestframework = "*"
+django-filter = "*"
+redis = "*"
+django-redis = "*"
+docker = "*"
+bs4 = "*"
+selenium = "*"
+webdriver-manager = "*"
+instaloader = "*"
+django-ratelimit = "*"
+django-cors-headers = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

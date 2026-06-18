@@ -1,0 +1,225 @@
+/* dashboard/static/dashboard/css/dashboard.css */
+
+/* dashboard/static/dashboard/css/dashboard.css */
+
+/* الأساسيات */
+.dashboard-card {
+    transition: transform 0.3s;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border: none;
+    margin-bottom: 1.5rem;
+}
+
+.dashboard-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.dashboard-card .card-header {
+    border-radius: 10px 10px 0 0 !important;
+    border-bottom: none;
+    font-weight: 600;
+}
+
+/* المؤشرات */
+.metric-card {
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.metric-value {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+}
+
+.metric-label {
+    font-size: 0.9rem;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.metric-change {
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+}
+
+.metric-change.positive {
+    color: #28a745;
+}
+
+.metric-change.negative {
+    color: #dc3545;
+}
+
+/* الرسوم البيانية */
+.chart-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+/* الجداول */
+.dashboard-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.dashboard-table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    border-top: none;
+}
+
+.dashboard-table tr:hover {
+    background-color: #f8f9fa;
+}
+
+/* الفلتر */
+.filter-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.filter-card .card-title {
+    color: white;
+}
+
+.filter-card .form-label {
+    color: rgba(255,255,255,0.9);
+}
+
+.filter-card select,
+.filter-card input {
+    background-color: rgba(255,255,255,0.1);
+    border-color: rgba(255,255,255,0.3);
+    color: white;
+}
+
+.filter-card select:focus,
+.filter-card input:focus {
+    background-color: rgba(255,255,255,0.2);
+    border-color: white;
+    color: white;
+}
+
+.filter-card select option {
+    color: #333;
+}
+
+/* تحسينات للشريط الجانبي */
+.sidebar {
+    background: linear-gradient(180deg, #2c3e50 0%, #3498db 100%);
+    min-height: 100vh;
+    color: white;
+    box-shadow: 3px 0 10px rgba(0,0,0,0.1);
+}
+
+.sidebar-brand {
+    padding: 1.5rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.sidebar-brand h3 {
+    font-weight: 700;
+    margin: 0;
+}
+
+.sidebar .nav-link {
+    color: rgba(255,255,255,.8);
+    padding: 15px 20px;
+    border-left: 3px solid transparent;
+    transition: all 0.3s;
+}
+
+.sidebar .nav-link:hover {
+    color: white;
+    background: rgba(255,255,255,.1);
+    border-left: 3px solid #1abc9c;
+}
+
+.sidebar .nav-link.active {
+    color: white;
+    background: rgba(255,255,255,.1);
+    border-left: 3px solid #1abc9c;
+}
+
+.sidebar .nav-link i {
+    width: 20px;
+    text-align: center;
+}
+
+/* الشريط العلوي */
+.navbar-top {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
+
+.user-dropdown .dropdown-toggle {
+    border: none;
+    background: transparent;
+}
+
+.user-dropdown .dropdown-toggle:after {
+    display: none;
+}
+
+/* الألوان للمؤشرات */
+.bg-metric-1 {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.bg-metric-2 {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.bg-metric-3 {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.bg-metric-4 {
+    background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+/* تحسينات للعرض على الجوال */
+@media (max-width: 768px) {
+    .sidebar {
+        min-height: auto;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+    
+    .sidebar .nav {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    .sidebar .nav-link {
+        text-align: center;
+        border-left: none;
+        border-top: 3px solid transparent;
+    }
+    
+    .sidebar .nav-link.active {
+        border-left: none;
+        border-top: 3px solid #1abc9c;
+    }
+    
+    .main-content {
+        margin-bottom: 70px; /* لتعويض الشريط الثابت */
+    }
+    
+    .metric-value {
+        font-size: 2rem;
+    }
+    
+    .chart-container {
+        height: 250px;
+    }
+}

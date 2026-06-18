@@ -1,0 +1,1074 @@
+2025-12-29 11:58:50,706 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 11:58:50,706 [WARNING] Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2025-12-29 12:01:07,060 [INFO] Download complete
+2025-12-29 12:01:07,060 [WARNING] Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2025-12-29 12:04:01,920 [INFO] Download complete.
+2025-12-29 12:15:12,669 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 12:16:07,391 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 12:21:45,585 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 12:33:47,240 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 12:33:52,656 [INFO] Processing image: C:\Users\pc\edui\media\uploads\errors\2025\graded_exam.png
+2025-12-29 12:34:16,044 [INFO] Processing image type: errors
+2025-12-29 12:34:16,113 [WARNING] Question not found for error text: Graded Exam Paper (Sample)
+2025-12-29 12:34:16,115 [WARNING] Question not found for error text: Question
+2025-12-29 12:34:16,117 [WARNING] Question not found for error text: AnSWEI
+2025-12-29 12:34:16,118 [WARNING] Question not found for error text: Result
+2025-12-29 12:34:16,120 [WARNING] Question not found for error text: 2+2
+2025-12-29 12:34:16,121 [WARNING] Question not found for error text: Correct
+2025-12-29 12:34:16,123 [WARNING] Question not found for error text: 5x3
+2025-12-29 12:34:16,125 [WARNING] Question not found for error text: 20
+2025-12-29 12:34:16,126 [WARNING] Question not found for error text: Wrong
+2025-12-29 12:34:16,127 [INFO] Processing image: C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 12:34:40,262 [INFO] Processing image type: attendance
+2025-12-29 12:34:40,262 [WARNING] Invalid attendance status 'Class Attendance Sheet (Sample)' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 12:34:40,262 [WARNING] Invalid attendance status 'Student' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 12:34:40,262 [WARNING] Invalid attendance status 'Status' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 12:34:40,262 [WARNING] Invalid attendance status 'Ali' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 12:34:40,278 [INFO] Saved attendance: Ali - Math - Present
+2025-12-29 12:34:40,278 [WARNING] Invalid attendance status '53ra' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 12:45:01,611 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 12:52:47,075 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 13:09:09,831 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 13:19:29,173 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-12-29 13:19:37,857 [INFO] Processing image: C:\Users\pc\edui\media\uploads\errors\2025\graded_exam.png
+2025-12-29 13:20:01,697 [INFO] Processing image type: errors
+2025-12-29 13:20:01,728 [WARNING] Question not found for error text: Graded Exam Paper (Sample)
+2025-12-29 13:20:01,728 [WARNING] Question not found for error text: Question
+2025-12-29 13:20:01,728 [WARNING] Question not found for error text: AnSWEI
+2025-12-29 13:20:01,728 [WARNING] Question not found for error text: Result
+2025-12-29 13:20:01,763 [INFO] Saved error: 2+2 - Unknown
+2025-12-29 13:20:01,763 [WARNING] Question not found for error text: Correct
+2025-12-29 13:20:01,778 [INFO] Saved error: 5x3 - Unknown
+2025-12-29 13:20:01,778 [WARNING] Question not found for error text: 20
+2025-12-29 13:20:01,778 [WARNING] Question not found for error text: Wrong
+2025-12-29 13:20:01,778 [INFO] Processing image: C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,803 [INFO] Processing image type: attendance
+2025-12-29 13:20:23,820 [WARNING] Invalid attendance status 'Class Attendance Sheet (Sample)' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,820 [WARNING] Invalid attendance status 'Student' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,820 [WARNING] Invalid attendance status 'Status' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,821 [WARNING] Invalid attendance status 'Ali' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,919 [INFO] Saved attendance: Ali - Math - Present
+2025-12-29 13:20:23,919 [WARNING] Invalid attendance status '53ra' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,965 [INFO] Saved attendance: Ali - Math - Absent
+2025-12-29 13:20:23,965 [WARNING] Invalid attendance status 'Omar' in image C:\Users\pc\edui\media\uploads\attendance\2025\attendance_sheet.png
+2025-12-29 13:20:23,996 [INFO] Saved attendance: Ali - Math - Late
+2026-01-12 12:56:28,851 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 12:56:41,201 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 10, in process_uploaded_image
+    call_command('process_images')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\process_images.py", line 29, in handle
+    img_path = image_obj.image.path
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 61, in path
+    self._require_file()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+2026-01-12 12:57:10,545 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 12:57:22,914 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 10, in process_uploaded_image
+    call_command('process_images')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\process_images.py", line 29, in handle
+    img_path = image_obj.image.path
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 61, in path
+    self._require_file()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+2026-01-12 12:59:21,220 [INFO] C:\Users\pc\edui\dashboard\signals.py changed, reloading.
+2026-01-12 12:59:42,844 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 12:59:49,193 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 13, in process_uploaded_image
+    call_command('process_images')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\process_images.py", line 29, in handle
+    img_path = image_obj.image.path
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 61, in path
+    self._require_file()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+2026-01-12 13:00:50,140 [INFO] C:\Users\pc\edui\dashboard\signals.py changed, reloading.
+2026-01-12 13:01:10,157 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:01:17,671 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1803, in changeform_view
+    with transaction.atomic(using=router.db_for_write(self.model)):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 307, in __exit__
+    connection.set_autocommit(True)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 487, in set_autocommit
+    self.run_and_clear_commit_hooks()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 765, in run_and_clear_commit_hooks
+    func()
+  File "C:\Users\pc\edui\dashboard\signals.py", line 14, in run_after_commit
+    call_command('process_images')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\process_images.py", line 29, in handle
+    img_path = image_obj.image.path
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 61, in path
+    self._require_file()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+2026-01-12 13:01:54,213 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:02:00,946 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1803, in changeform_view
+    with transaction.atomic(using=router.db_for_write(self.model)):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 307, in __exit__
+    connection.set_autocommit(True)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 487, in set_autocommit
+    self.run_and_clear_commit_hooks()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 765, in run_and_clear_commit_hooks
+    func()
+  File "C:\Users\pc\edui\dashboard\signals.py", line 14, in run_after_commit
+    call_command('process_images')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\process_images.py", line 29, in handle
+    img_path = image_obj.image.path
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 61, in path
+    self._require_file()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+2026-01-12 13:04:29,041 [INFO] C:\Users\pc\edui\dashboard\signals.py changed, reloading.
+2026-01-12 13:06:41,477 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:06:49,129 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\13f58454-a71d-40c5-891a-3e3214146e61.jpg
+2026-01-12 13:08:16,048 [INFO] OCR saved for image 817 (confidence=0.82)
+2026-01-12 13:08:16,379 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1803, in changeform_view
+    with transaction.atomic(using=router.db_for_write(self.model)):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 307, in __exit__
+    connection.set_autocommit(True)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 487, in set_autocommit
+    self.run_and_clear_commit_hooks()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 765, in run_and_clear_commit_hooks
+    func()
+  File "C:\Users\pc\edui\dashboard\signals.py", line 16, in run_after_commit
+    call_command('link_ocr_to_questions', image_id=str(instance.id))
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 180, in call_command
+    raise TypeError(
+TypeError: Unknown option(s) for link_ocr_to_questions command: image_id. Valid options are: force_color, help, no_color, pythonpath, settings, skip_checks, stderr, stdout, traceback, verbosity, version.
+2026-01-12 13:09:34,097 [INFO] C:\Users\pc\edui\dashboard\signals.py changed, reloading.
+2026-01-12 13:10:05,106 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:10:11,954 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\52ce5e48-e21f-4b38-9c31-5be663ba2b77.jpg
+2026-01-12 13:11:24,180 [INFO] OCR saved for image 818 (confidence=0.82)
+2026-01-12 13:11:24,451 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 13, in process_uploaded_image
+    call_command('link_ocr_to_questions')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py", line 15, in handle
+    exam = image.exam  # ≈‰ ·„ Ìﬂ‰ „ÊÃÊœ« √÷›Â ·«Õﬁ«
+           ^^^^^^^^^^
+AttributeError: 'UploadedImage' object has no attribute 'exam'
+2026-01-12 13:13:47,494 [INFO] C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py changed, reloading.
+2026-01-12 13:14:08,826 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:14:14,955 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\3eed4e5d-a9ea-4b94-acff-d3cbc2fe9ca2.jpg
+2026-01-12 13:15:40,462 [INFO] OCR saved for image 819 (confidence=0.82)
+2026-01-12 13:15:41,690 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 13, in process_uploaded_image
+    call_command('link_ocr_to_questions')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py", line 34, in handle
+    text = block["text"]
+           ~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2026-01-12 13:17:49,410 [INFO] C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py changed, reloading.
+2026-01-12 13:18:12,125 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:18:18,706 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\12da747e-0638-4d0a-a5de-4df9aeb36831.jpg
+2026-01-12 13:19:41,871 [INFO] OCR saved for image 820 (confidence=0.82)
+2026-01-12 13:19:42,471 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 13, in process_uploaded_image
+    call_command('link_ocr_to_questions')
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py", line 50, in handle
+    StudentAnswer.objects.get_or_create(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 948, in get_or_create
+    return self.get(**kwargs), False
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 652, in get
+    raise self.model.MultipleObjectsReturned(
+dashboard.models.StudentAnswer.MultipleObjectsReturned: get() returned more than one StudentAnswer -- it returned 2!
+2026-01-12 13:24:20,957 [INFO] C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py changed, reloading.
+2026-01-12 13:24:54,803 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:25:04,201 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\50758feb-9232-4429-b665-b969d81469dc.jpg
+2026-01-12 13:26:16,433 [INFO] OCR saved for image 821 (confidence=0.82)
+2026-01-12 13:31:01,070 [ERROR] The number of GET/POST parameters exceeded settings.DATA_UPLOAD_MAX_NUMBER_FIELDS.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\request.py", line 521, in __init__
+    for key, value in parse_qsl(query_string, **parse_qsl_kwargs):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\urllib\parse.py", line 778, in parse_qsl
+    raise ValueError('Max number of fields exceeded')
+ValueError: Max number of fields exceeded
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = middleware_method(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\csrf.py", line 465, in process_view
+    self._check_token(request)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\csrf.py", line 368, in _check_token
+    request_csrf_token = request.POST.get("csrfmiddlewaretoken", "")
+                         ^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\wsgi.py", line 93, in _get_post
+    self._load_post_and_files()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\request.py", line 391, in _load_post_and_files
+    self._post = QueryDict(self.body, encoding="utf-8")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\request.py", line 528, in __init__
+    raise TooManyFieldsSent(
+django.core.exceptions.TooManyFieldsSent: The number of GET/POST parameters exceeded settings.DATA_UPLOAD_MAX_NUMBER_FIELDS.
+2026-01-12 13:31:01,451 [WARNING] Bad Request: /admin/dashboard/studentanswer/
+2026-01-12 13:37:58,341 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 13:38:03,840 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\95be3006-9457-48f6-8ade-93beeceb9dd8.jpg
+2026-01-12 13:39:27,098 [INFO] OCR saved for image 822 (confidence=0.82)
+2026-01-12 13:42:43,761 [INFO] C:\Users\pc\edui\dashboard\admin.py changed, reloading.
+2026-01-12 14:17:16,216 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-12 14:17:27,865 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\None\914dcb43-d826-41c6-a530-a6ee801cde59.jpg
+2026-01-12 14:19:01,884 [INFO] OCR saved for image 823 (confidence=0.82)
+2026-01-14 12:13:30,930 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 12:13:41,263 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\bc0bed0b-4a49-4529-8eaa-10f459878ee7.jpg
+2026-01-14 12:15:12,253 [INFO] OCR saved for image 1 (confidence=0.82)
+2026-01-14 12:15:15,324 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1048, "Column 'is_correct' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 23, in process_uploaded_image
+    call_command('link_ocr_to_questions', image_id=str(instance.id))
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py", line 134, in handle
+    StudentAnswer.objects.create(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1048, "Column 'is_correct' cannot be null")
+2026-01-14 12:15:55,222 [INFO] C:\Users\pc\edui\dashboard\models.py changed, reloading.
+2026-01-14 12:16:37,620 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 12:16:44,306 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\543c589a-2a51-4dec-add2-39c76eb30834.jpg
+2026-01-14 12:18:08,347 [INFO] OCR saved for image 2 (confidence=0.82)
+2026-01-14 12:18:08,832 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1048, "Column 'score' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 23, in process_uploaded_image
+    call_command('link_ocr_to_questions', image_id=str(instance.id))
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\link_ocr_to_questions.py", line 134, in handle
+    StudentAnswer.objects.create(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1823, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1048, "Column 'score' cannot be null")
+2026-01-14 12:18:41,354 [INFO] C:\Users\pc\edui\dashboard\models.py changed, reloading.
+2026-01-14 12:19:19,127 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 12:19:26,643 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\f126e212-63b3-4fb0-818b-e973434d6e06.jpg
+2026-01-14 12:20:55,798 [INFO] OCR saved for image 3 (confidence=0.82)
+2026-01-14 12:21:03,364 [ERROR] Internal Server Error: /admin/dashboard/uploadedimage/add/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py", line 1259, in save_model
+    obj.save()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 924, in save_base
+    post_save.send(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\signals.py", line 24, in process_uploaded_image
+    call_command('analyze_student_answers', image_id=str(instance.id))
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py", line 194, in call_command
+    return command.execute(*args, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py", line 459, in execute
+    output = self.handle(*args, **options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\management\commands\analyze_student_answers.py", line 49, in handle
+    answers = StudentAnswer.objects.filter(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1376, in build_lookup
+    lhs = self.try_transform(lhs, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1427, in try_transform
+    raise FieldError(
+django.core.exceptions.FieldError: Unsupported lookup 'uploadedimage' for ForeignKey or join on the field not permitted.
+2026-01-14 12:26:23,332 [INFO] C:\Users\pc\edui\dashboard\management\commands\analyze_student_answers.py changed, reloading.
+2026-01-14 12:26:45,029 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 12:26:55,491 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\73f81852-4ce6-4728-8625-d135a96734af.jpg
+2026-01-14 12:28:10,910 [INFO] OCR saved for image 4 (confidence=0.82)
+2026-01-14 12:38:26,608 [INFO] C:\Users\pc\edui\dashboard\admin.py changed, reloading.
+2026-01-14 12:40:40,920 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 12:40:48,782 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\9abe052f-9f56-4d04-b2db-ff669c9daa7d.jpg
+2026-01-14 12:42:16,485 [INFO] OCR saved for image 5 (confidence=0.82)
+2026-01-14 12:54:01,623 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 12:54:09,637 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\26c356d3-5639-4f45-935b-115ee2b0b0df.jpg
+2026-01-14 12:55:08,919 [INFO] OCR saved for image 6 (confidence=0.77)
+2026-01-14 13:00:09,935 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 13:00:14,781 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\1a6d9bac-0af8-4457-b87f-4c9f9b0c683b.jpg
+2026-01-14 13:01:38,988 [INFO] OCR saved for image 7 (confidence=0.80)
+2026-01-14 13:06:18,293 [ERROR] Internal Server Error: /dashboard/api/academic-bar/
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\views.py", line 51, in academic_performance_bar_api
+    data = academic_performance_bar(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\edui\dashboard\services.py", line 40, in academic_performance_bar
+    ).annotate(
+      ^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1630, in annotate
+    return self._annotate(args, kwargs, select=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1680, in _annotate
+    clone.query.add_annotation(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1198, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\aggregates.py", line 88, in resolve_expression
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot compute Avg('total_score'): 'total_score' is an aggregate
+2026-01-14 13:15:02,957 [INFO] C:\Users\pc\edui\dashboard\management\commands\process_images.py changed, reloading.
+2026-01-14 13:30:51,317 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 13:30:59,583 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\ea11c6bf-7ea5-472c-841f-339f3451d1f0.jpg
+2026-01-14 13:32:33,448 [INFO] OCR saved for image 8 (confidence=0.82)
+2026-01-14 13:33:13,268 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 13:33:19,983 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\731a0243-3f18-4164-9679-9e238f07a66c.jpg
+2026-01-14 13:34:27,805 [INFO] OCR saved for image 9 (confidence=0.80)
+2026-01-14 13:54:42,421 [WARNING] Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2026-01-14 13:54:47,919 [INFO] OCR processing image: C:\Users\pc\edui\media\uploads\exam\dc988e0c-a224-4de6-bbfa-83de7936d3f0.jpg
+2026-01-14 13:56:14,163 [INFO] OCR saved for image 10 (confidence=0.82)
+2026-01-14 14:01:53,204 [WARNING] Not Found: /media/uploads/exam/dc988e0c-a224-4de6-bbfa-83de7936d3f0.jpg
+2026-01-14 14:01:59,220 [WARNING] Not Found: /media/uploads/exam/dc988e0c-a224-4de6-bbfa-83de7936d3f0.jpg
